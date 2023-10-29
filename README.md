@@ -5,8 +5,14 @@ A solo personal project as part of the **AI Bootcamp**
 ## Project description
 
 This is the first stage of the project of swap faces from different images, in this ocation we will going to used a Friends' imagen to swap the face of one of the person af the picture and replace all the faces with this face. `InsightFace` is an open source 2D&3D deep face analysis library. which is going to help us with this task. 
+As and example wit taek a picture of Harry Potter:
+![Drag Racing](/img/HarryPotter.jpeg)
 
+Now we make a face swapping using insightFace:
+![Drag Racing](/img/output1.png)
 
+And here we can see more in detail:
+![Drag Racing](/img/output2.png)
 ## Installation
 
 1. Clone [FaceSwapping](https://github.com/mendoce24/FaceSwapping) repository
